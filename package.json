@@ -1,0 +1,26 @@
+{
+  "name": "miklax_backend",
+  "version": "1.0.0",
+  "description": "Back-end following 'miklax_api' for blog and portfolio page v2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miklax/miklax_backend.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Mihail Miklasevskij",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miklax/miklax_backend/issues"
+  },
+  "homepage": "https://github.com/miklax/miklax_backend#readme",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
